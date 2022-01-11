@@ -6,6 +6,7 @@ Member
 1620703940	พรพิพัฒน์	สิรมานนท์ (เกม)
 1620706687	กมลรัตน์	รักษาพล (จอย)
 ```
+**Work Detail**
 ```
 Learning problem : Clustering
 Dataset : Retail
