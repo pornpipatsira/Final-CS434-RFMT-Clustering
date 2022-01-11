@@ -13,6 +13,6 @@ Dataset : Retail
 Evaluation metrics : elbow, silhoulette
 ```
 **Work Reflection**
-```
-(https://medium.com/@pornpipat.sira/work-reflection-cs434-data-mining-87a09e060021)
-```
+
+Link : https://medium.com/@pornpipat.sira/work-reflection-cs434-data-mining-87a09e060021
+
