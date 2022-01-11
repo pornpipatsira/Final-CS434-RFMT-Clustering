@@ -1,2 +1,7 @@
 # Final-CS434-RFMT-Clustering
- คิดไม่ออก
+** กลุ่ม คิดไม่ออก **
+```
+Learning problem : Clustering
+Dataset : Retail
+Evaluation metrics : elbow, silhoulette
+```
